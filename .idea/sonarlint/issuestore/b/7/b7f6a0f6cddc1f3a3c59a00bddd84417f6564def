@@ -1,0 +1,7 @@
+
+m	java:S116"QRename this field "READER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(МС—П8¬ЬЯ…О1
+G	java:S106 "+Replace this use of System.out by a logger.(НІЉЏ8к‰а…О1
+L	java:S106""+Replace this use of System.out by a logger.(‚є‡Щшяяяя8л‰а…О1
+G	java:S106%"+Replace this use of System.out by a logger.(оҐЈЈ8м‰а…О1
+L	java:S106'"+Replace this use of System.out by a logger.(ЏЩвншяяяя8м‰а…О1
+F	java:S106:"+Replace this use of System.out by a logger.(ІтЉ8п‰а…О1
